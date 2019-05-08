@@ -18,11 +18,11 @@ public class Accesorios {
     
     
     
-    //Fonts
+    //Fuentes
     public static Font fuenteGrande;
     public static Font FuenteMediana;
     
-    // ui
+    //botones
     public static BufferedImage btnRojo;
     public static BufferedImage btnAmarillo;
     
