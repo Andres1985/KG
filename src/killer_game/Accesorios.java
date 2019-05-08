@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
  * @author Andres
  */
 
-//clase accesorios
+
 public class Accesorios {
     
     
